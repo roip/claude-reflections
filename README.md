@@ -2,6 +2,7 @@
 
 **Persistent memory across sessions for Claude Code using hooks and custom agents.**
 
+Developed to analyze claude sessions, and identify project, CLAUDE.md and communication issues,  
 Claude Code's context window is finite. When it fills up, the conversation gets compacted — and context is lost. This project uses Claude Code's **hooks** and **custom agents** to capture, store, and retrieve conversation context across sessions.
 
 ## The Problem
